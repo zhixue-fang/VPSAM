@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Reference
 ```bibtex
-@inproceedings{fang2024euvps,
+@inproceedings{fang2024vpsam,
   title={VPSAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network},
   author={Zhixue Fang, Yuzhi Liu, Huisi Wu, and Jing Qin},
   booktitle={Proceedings of the ECCV Conference on European Conference on Computer Vision},
